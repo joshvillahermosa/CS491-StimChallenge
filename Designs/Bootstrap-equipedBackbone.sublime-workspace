@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"ro",
+				"Router"
+			],
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"displa",
+				"displayZone"
+			],
+			[
+				"people",
+				"peopleUrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"as",
+				"aside	Tag"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"dis",
+				"displayZone"
+			],
+			[
+				"disp",
+				"displayHome"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"A",
+				"Ambition"
+			],
+			[
+				"Amb",
+				"Ambitions"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"lin",
+				"links"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/views/viewTools.js",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3589,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap-equipedBackbone/Bootstrap-equipedBackbone.sublime-project",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap-equipedBackbone/js/vendor/bootstrap.min.js",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap-equipedBackbone/css/bootstrap.min.css",
+		"/C/Users/Josh/AppData/Local/Temp/699e85c8-919c-482e-85a6-2d5d047c9c35/andromeda/home/ruadm/department/gslsamp/public_html/news-events-gslsamp.html",
+		"/C/Users/Josh/AppData/Local/Temp/596b3368-0ac0-4fd8-9af5-d3d7723a7d0a",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/people.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/project.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/news.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/blog.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/resume.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/contact.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/labs.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/JayVee-Website/JayVee_v3/Web/data/webmaster.json",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/js/views/viewTools.js",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/js/main.js",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/index.html",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/initializr/index.html",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/initializr/js/views/viewTools.js",
+		"/C/Users/Josh/Documents/JayVee/CompSci/Projects/WebProjects/Bootstrap/initializr/js/main.js",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechAntiFighter.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechColony.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechEnvoy.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechLight.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechLongRange.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/FrigateTechScout.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CorvetteTechRebel.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CorvetteTechLoyalist.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHTRANSPORT.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHSUPPORT.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHSIEGE.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHCOLONY.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHCARRIER.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/JackedTec.v2/GameInfo/CAPITALSHIP_TECHBATTLESHIP.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechStarBaseConstructor.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechSiege.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechScout.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechRefineryShip.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechModuleConstructor.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechLongRange.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechLight.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechHeavy.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechFlagship.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechEnvoy.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechColony.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechCarrier.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechAntiFighter.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FrigateTechAntiModule.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FighterTechCombat.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/FighterTechBomber.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CorvetteTechLoyalist.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CorvetteTechRebel.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHTRANSPORT.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHSUPPORT.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHSIEGE.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHCOLONY.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHCARRIER.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/CAPITALSHIP_TECHBATTLESHIP.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/EasyMode/GameInfo/Gameplay.constants",
+		"/C/Users/Josh/Downloads/frigate_techheavy.exp",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/StrongTEC/GameInfo/CAPITALSHIP_TECHBATTLESHIP.entity",
+		"/C/Users/Josh/Documents/My Games/Ironclad Games/Sins of a Solar Empire Rebellion/Mods-Rebellion v1.52/StrongTEC/GameInfo/PlayerTechLoyalist.entity",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/css/main.css",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/news-events-gslsamp.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/news-arch/news-Robinson.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/index.html",
+		"/C/Users/Josh/AppData/Local/Temp/699e85c8-919c-482e-85a6-2d5d047c9c35/andromeda/home/ruadm/department/gslsamp/public_html/templ/news-template.html",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/public/js/views/menu.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/public/js/views/menuitemdetails.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/public/js/models/menuitem.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/public/js/collections/menuitems.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/public/js/app.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/05/final/data/menu-items.json",
+		"/C/UserInstalledPrograms/Games/steamapps/common/Sins of a Solar Empire Rebellion/GameInfo/CAPITALSHIP_PSIPLANETPSIONIC.entity",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/server.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/col/members.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/mod/person.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/index.html",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/index.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/viewMembers.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/app.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/data/people.json",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/temp.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/Resources.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/People.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/Media.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/NewsEvents.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/Applications.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/About.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Main_v2/PlanB/Movies.html",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/04/final/public/js/views/menu.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/04/final/public/js/views/menuitemdetails.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/04/04/final/public/js/models/menuitem.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/col/peopleOnSite.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/03/start/data/menu-items.json",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/03/final/public/js/app.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/03/start/server.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/03/final/public/js/models/menuitem.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/03/start/public/js/models/menuitem.js",
+		"/C/Users/Josh/AppData/Local/Temp/699e85c8-919c-482e-85a6-2d5d047c9c35/andromeda/home/ruadm/department/gslsamp/public_html/index.html",
+		"/C/Users/Josh/Documents/JayVee/Career&Work/LSAMP/Web/Misc/googleAnylitics.txt",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/02/03/final/public/js/app.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/02/03/final/public/js/views/menuitemdetails.js",
+		"/C/Users/Josh/Desktop/temp.html",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/02/start/server.js",
+		"/C/UserInstalledPrograms/Games/steamapps/common/Sins of a Solar Empire Rebellion/GameInfo/Gameplay.constants",
+		"/C/Users/Josh/Documents/JayVee/Games/SinsOfASolarEmpire-Rebellion/NoCannons/Gameplay.constants",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/resume.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/me.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/projects.js",
+		"/C/Users/Josh/AppData/Local/Temp/3b8a9ad1-c38e-46d0-a271-65b5e44b88a3/home/student/jjv8/Projects/JayVee-v3/public/js/views/contact.js",
+		"/C/Users/Josh/Desktop/Ex_Files_UaR_Backbone/ExerciseFiles/03/01/start/server.js",
+		"/C/Users/Josh/AppData/Local/Temp/a09e7038-c10a-4ef3-83ec-5525057a6cf9",
+		"/C/Users/Josh/Application Data/SSH/temp/server.js",
+		"/C/Users/Josh/Application Data/SSH/temp/JayVee-v3/package.json",
+		"/C/Users/Josh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Josh/AppData/Local/Temp/9f210649-8203-476c-99a5-44f49af3e51e/pegasus/home/students/jayvee/public_html/Bootstrap/index.html",
+		"/C/Users/Josh/Desktop/BusinessCard/me.json",
+		"/C/Users/Josh/AppData/Local/Temp/9f210649-8203-476c-99a5-44f49af3e51e/pegasus/home/students/jayvee/public_html/JSON/Part4/main.css",
+		"/C/Users/Josh/AppData/Local/Temp/9f210649-8203-476c-99a5-44f49af3e51e/pegasus/home/students/jayvee/public_html/JSON/Part4/main.js",
+		"/C/Users/Josh/AppData/Local/Temp/9f210649-8203-476c-99a5-44f49af3e51e/pegasus/home/students/jayvee/public_html/JSON/Part4/index.html",
+		"/C/Users/Josh/AppData/Local/Temp/9f210649-8203-476c-99a5-44f49af3e51e/pegasus/home/students/jayvee/public_html/JSON/Part4/data.json",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/JSON/Part4/data.json",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/JSON/Part4/main.js",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/JSON/Part4/index.html",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/AJAX/Chapter4/data.json",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/AJAX/Chapter2/data.json",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/AJAX/Chapter2/Notes.txt",
+		"/C/Users/Josh/AppData/Local/Temp/7f62f8d1-d867-4013-9ed5-76a6eb9ccbba/pegasus/home/students/jayvee/public_html/AJAX/Chapter2/script.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Bootstrap",
+			"Boostrap",
+			"el",
+			"Cannon",
+			"join"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Boilerplate"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/views/viewTools.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1043,
+								1043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "Bootstrap-equipedBackbone.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			],
+			[
+				"app",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\js\\app.js"
+			],
+			[
+				"in",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			],
+			[
+				"",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
