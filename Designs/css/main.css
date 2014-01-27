@@ -4,7 +4,11 @@
    Author's custom styles
    ========================================================================== */
 
-
+#footer {
+	border: black solic 2px;
+	background-color: #353535;
+	color: white;
+}
 
 
 
