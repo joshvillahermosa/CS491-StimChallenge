@@ -14,7 +14,33 @@
 	
 }
 
+#BG1{
+	background: url('../img/Banner.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
 
+#BG1 h1 {
+	color: white;
+
+}
+
+#BG2{
+	background: url('../img/Banner2.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+#BG2 h1 {
+	color: white;
+}
+
+#BG2 p{
+	color: white;
+}
+
+#BG3{
+	background-color: gray;
+	color: white;
+}
 
 
 
