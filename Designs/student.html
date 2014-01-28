@@ -20,7 +20,11 @@
 
         <!-- CSS Files -->
         <link rel="stylesheet" href="css/main.css">
+        <!-- JavaScript Libraries -->
+        <script src="js/vendor/jquery-1.10.1.min.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="js/vendor/Chart.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -52,10 +56,38 @@
         <div class="container ">
             <div class="jumbotron">
                 <div class="row">
-                    <div class="col-lg-2"><h5>Meet...</h5></div>
+                    <div class="col-lg-2"><h3>Meet...</h3></div>
                 </div>
                 <div class="row">
                     <div class="col-lg-offset-2 col-lg-10"><h1>{STUDNET NAME}</h1></div>
+                </div>
+                <brr>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4"><img src="img/Pic.jpg" class="img-responsive img-cirlce" id="studentPic"></div>
+                <div class="col-lg-8">
+                    <h3>Money Needed: <span style="color: green">$15,000.00</span></h3>
+                    <h4>Deadine: <span style="color: red">May 21st, 2014</span></h4>
+                    <canvas id="studentChart" width="600px" height="300px" class="img-responsive"></canvas>
+                    <script type="text/javascript">
+                          var data = {
+                            labels : ["Week 1","Week 2","Week 3","Week 4"],
+                            datasets : [
+                                {
+                                    fillColor : "#1F4703",
+                                    strokeColor : "#45C806",
+                                    pointColor : "#96F3B1",
+                                    pointStrokeColor : "#fff",
+                                    data : [102,593,1603,7096]
+                                }
+                            ]
+                        }                        
+                        var ctx = $("#studentChart").get(0).getContext("2d");
+                        new Chart(ctx).Line(data);
+                    </script>
                 </div>
             </div>
         </div>
@@ -66,13 +98,6 @@
                 <p>Note: All tools made with the development of this Website are NOT tools created by me and NOT coprtighted by me. They belong to thier respective developers to bring a awesome user expernence. <!--For more information about these tools<a href="">click here</a> to visit thier website.</p>-->
             </div>
         </footer>
-
-        <!-- JavaScript Libraries -->
-        <script src="js/vendor/jquery-1.10.1.min.js"></script>
-        <script src="js/vendor/bootstrap.min.js"></script>
-
-        <!-- JavaScript Made Files -->
-        <script src="js/main.js"></script>
         <!--
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
