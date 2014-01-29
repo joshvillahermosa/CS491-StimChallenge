@@ -48,8 +48,8 @@
 	color: white;
 }
 
-#studentPic{
-	border: 1px solid black;
+.border{
+	border: 2px solid black;
 	border-radius: 200px;
 }
 
