@@ -42,6 +42,12 @@
 	color: white;
 }
 
+#BG4{
+	background: url('../img/4.jpg') no-repeat center center fixed;
+	background-size: cover;	
+	color: white;
+}
+
 #studentPic{
 	border: 1px solid black;
 	border-radius: 200px;
