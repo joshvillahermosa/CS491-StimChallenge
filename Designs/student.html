@@ -53,8 +53,8 @@
             </div>
         </nav>
         <br>
-        <div class="container ">
-            <div class="jumbotron">
+        <div class="container">
+            <div class="jumbotron" id="BG4">
                 <div class="row">
                     <div class="col-lg-2"><h3>Meet...</h3></div>
                 </div>
@@ -68,10 +68,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4"><img src="img/Pic.jpg" class="img-responsive img-cirlce" id="studentPic"></div>
-                <div class="col-lg-8">
+                <div class="col-lg-4">
                     <h3>Money Needed: <span style="color: green">$15,000.00</span></h3>
                     <h4>Deadine: <span style="color: red">May 21st, 2014</span></h4>
-                    <canvas id="studentChart" width="600px" height="300px" class="img-responsive"></canvas>
+                    <canvas id="studentChart" width="400px" height="300px" class="img-responsive"></canvas>
                     <script type="text/javascript">
                           var data = {
                             labels : ["Week 1","Week 2","Week 3","Week 4"],
@@ -89,10 +89,59 @@
                         new Chart(ctx).Line(data);
                     </script>
                 </div>
+                <div>
+                    <h2>Major Sonsors</h2>
+                    <p><span style="color: #F38630">Family and Friends</span> - <span style="color: #0000FF">Colleges and Universities </span>-<span style="color: #69D2E7">Companies</span></p>
+                    <canvas id="backers" width="300px" height="300px"></canvas>
+                    <script type="text/javascript">
+                        var data = [
+                            {
+                                value: 33,
+                                color:"#F38630"
+                            },
+                            {
+                                value : 44,
+                                color : "#0000FF"
+                            },
+                            {
+                                value : 23,
+                                color : "#69D2E7"
+                            }           
+                        ]
+                        var back = $("#backers").get(0).getContext("2d");
+                        new Chart(back).Pie(data);
+                    </script>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-6">
+                    <object width="560" height="315"><param name="movie" value="//www.youtube.com/v/gfijG7pmMqk?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/gfijG7pmMqk?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+                </div>
+                <div class="col-lg-6">
+                    <h2><u>Biography</u></h2>
+                    <dl class="dl-horizontal">
+                        <dt>Name</dt><dd>Gunter</dd>
+                        <dt>Home town</dt><dd>Ice Kingdon</dd>
+                        <dt>HS/College</dt><dd>Ice Kingdon University</dd>
+                        <dt>Year</dt><dd>Senior</dd>
+                        <dt>Major/Interest</dt><dd>Law</dd>
+                        <dt>Hobbies</dt><dd>Sliding down slopers</dd><dd>Tennis</dd>
+                    </dl>
+                    <h3>Why should I get an education?</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="row">
+                
             </div>
         </div>
 
         <footer id="footer" class="footer">
+            <br>
             <div class="text-muted container">
                 {SITENAME} <br>
                 <p>Note: All tools made with the development of this Website are NOT tools created by me and NOT coprtighted by me. They belong to thier respective developers to bring a awesome user expernence. <!--For more information about these tools<a href="">click here</a> to visit thier website.</p>-->
